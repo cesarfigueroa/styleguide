@@ -46,3 +46,8 @@ Unless an interpreter or compiler dictates otherwise, these characteristics are 
     @include user-select(none);
   }
   ```
+
+## Ruby
+
+- Use curly braces for single line blocks and `do`/`end` for multiline.
+- Long live the hashrocket!
